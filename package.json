@@ -1,0 +1,11 @@
+{
+  "name": "fso-backend",
+  "version": "1.0.0",
+  "description": "Satisfies the required exercises for Full Stack Open, starting from Part3a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
