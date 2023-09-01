@@ -9,7 +9,7 @@ const Person = require('./models/person')
 app.use(express.json())
 app.use(morgan('tiny'))
 app.use(cors())
-app.use(express.static('dist'))
+app.use(express.static('build'))
 
 // let persons = [
 //     { 
